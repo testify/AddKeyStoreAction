@@ -1,5 +1,7 @@
 AddKeyStoreAction
 =================
+
+[![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/testify/AddKeyStoreAction?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 *A Testify Action to set keyStore properties as system properties*
 
 [![Build Status](https://travis-ci.org/testify/AddKeyStoreAction.svg?branch=master)](https://travis-ci.org/testify/AddKeyStoreAction)
